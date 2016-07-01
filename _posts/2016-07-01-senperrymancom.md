@@ -11,9 +11,9 @@ description: >-
   strategic partner who quickly masters new technologies and languages, and
   easily transitions across a variety of environments. A life-long learner with
   an insatiable appetite for knowledge.
-datePublished: '2016-07-01T22:33:49.467Z'
-dateModified: '2016-07-01T22:33:30.096Z'
-title: Se@nPerryman.com
+datePublished: '2016-07-01T22:34:30.003Z'
+dateModified: '2016-07-01T22:34:20.156Z'
+title: My Resume
 author: []
 sourcePath: _posts/2016-07-01-senperrymancom.md
 authors: []
@@ -23,7 +23,7 @@ url: senperrymancom/index.html
 _type: Article
 
 ---
-### [Se@nPerryman.com][0]
+### [My Resume][0]
 
 ### 805-441-2233
 
