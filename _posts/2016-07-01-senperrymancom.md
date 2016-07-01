@@ -11,8 +11,8 @@ description: >-
   strategic partner who quickly masters new technologies and languages, and
   easily transitions across a variety of environments. A life-long learner with
   an insatiable appetite for knowledge.
-datePublished: '2016-07-01T22:34:30.003Z'
-dateModified: '2016-07-01T22:34:20.156Z'
+datePublished: '2016-07-01T22:34:46.380Z'
+dateModified: '2016-07-01T22:34:43.680Z'
 title: My Resume
 author: []
 sourcePath: _posts/2016-07-01-senperrymancom.md
