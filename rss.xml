@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Se@nPerryman.com]]></title>
+        <description><![CDATA[Se@nPerryman.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jul 2016 22:30:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[se@nperryman.com]]></title>
+            <description><![CDATA[<article><h1>se@nperryman.com</h1><p>Multifaceted IT professional with proven skills in software development, application and infrastructure management, process improvement, cost containment, and product support. An effective leader, team player, and strategic partner who quickly masters new technologies and languages, and easily transitions across a variety of environments. A life-long learner with an insatiable appetite for knowledge.</p></article>]]></description>
+            <link>undefinedsenperrymancom/index.html</link>
+            <guid isPermaLink="false">3a8a783c-29dc-4d24-a04f-dc5d558becb5</guid>
+            <pubDate>Fri, 01 Jul 2016 22:30:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
