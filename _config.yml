@@ -1,0 +1,28 @@
+name: Sean Perryman
+favicon: null
+layout_spectrum: 0.5804218358825892
+typography_spectrum: 0.9930450373794883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7067899890244007
+  lightness: 0.644789554644376
+  saturation: 0.4947463688440621
+  rhythmicContrast: 0.2623892459087074
+purpose: []
